@@ -1,1 +1,1 @@
-# Application_de_Pr-diction_des_Charges_d-Assurance
+# Application_de_Prédiction_des_Charges_d_Assurance
